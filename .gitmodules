@@ -7,3 +7,6 @@
 [submodule "tmdb-movies"]
 	path = tmdb-movies
 	url = https://github.com/Nailzk/tmdb-movies
+[submodule "minio-storage"]
+	path = minio-storage
+	url = https://github.com/Nailzk/minio-storage
