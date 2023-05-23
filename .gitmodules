@@ -1,0 +1,3 @@
+[submodule "auth-movies"]
+	path = auth-movies
+	url = https://github.com/Nailzk/auth-movies
