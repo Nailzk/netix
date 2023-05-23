@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/Nailzk/client
+[submodule "tmdb-movies"]
+	path = tmdb-movies
+	url = https://github.com/Nailzk/tmdb-movies
